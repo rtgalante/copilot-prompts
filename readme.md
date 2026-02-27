@@ -219,3 +219,28 @@ Conecta diretamente com agentes de IA, automação e uso prático de ferramentas
 Lembre-se: o mais importante é a **constância**, não a velocidade. Comece pela Semana 1 e vá no seu ritmo.  
 
 Quer que eu também monte uma **lista de recursos práticos** (links de documentação, tutoriais e comunidades) para n8n e Lovable, para acelerar sua curva de aprendizado?
+
+---
+
+- Resultado do promtp Simulador de Entrevistas
+
+Ótimo, cobrimos todos os pontos!  
+
+Aqui está o **resumo analítico da vaga** que você estruturou:  
+
+### Vaga: Engenheiro de Automação (Iniciante)  
+- **Propósito do cargo:** Atuar na automação de processos e aplicação de fundamentos de IA e Machine Learning para otimizar fluxos de trabalho.  
+- **Senioridade:** Iniciante — ideal para alguém em início de carreira, com foco em aprendizado prático e desenvolvimento dentro da área.  
+- **Stack essencial:**  
+  - Fundamentos de IA e Machine Learning  
+  - Automação de processos (RPA, scripts, APIs)  
+  - Noções de ciência de dados aplicada  
+  - Python  
+  - LangChain / frameworks de agentes de IA  
+  - Plataformas de automação (UiPath, Zapier, Power Automate, n8n)  
+  - Tecnologias NoCode (Lovable, Bubble, Make)  
+- **Soft Skills valorizados:** Comunicação clara e objetiva, pró-atividade.  
+
+Esse perfil combina bem a base técnica necessária com atitudes que favorecem adaptação e crescimento rápido.  
+
+Quer que eu organize esse resumo em um **modelo de descrição de vaga** pronto para publicação (com responsabilidades, requisitos e diferenciais), ou prefere manter apenas como guia interno?
